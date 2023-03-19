@@ -4,7 +4,7 @@ import requests
 from reddit import Reddit
 from ya_disk import YandexDisk
 
-TOKEN = "y0_AgAAAAAQzGnMAADLWwAAAADe6rz3YEgDZH7dQtW3BXA7KuwDGyCwrBs"
+TOKEN = ""
 
 def test_request():
     url = "https://bootssizes/get"
